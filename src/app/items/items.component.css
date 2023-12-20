@@ -1,0 +1,10 @@
+main {
+  padding: 1rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.total {
+  font-size: 5rem;
+  font-weight: bold;
+}
